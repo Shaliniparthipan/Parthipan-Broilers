@@ -34,7 +34,9 @@ https://github.com/Shaliniparthipan/Parthipan-Broilers
 
 ## 📷 Screenshots
 
-(Add screenshots here later)
+### Website Preview
+
+![Website Preview](Screenshots/website-preview.png.jpeg)
 
 ## 👨‍💻 Developed By
 
