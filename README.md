@@ -81,9 +81,9 @@ The website allows customers to:
 ## Website Preview
 
 >
-
+## 📸 Website Preview
 ```
-![Website Preview](Screenshots/website-preview.png.jpeg)
+![Website Preview](Screenshots/website-preview.png)
 ```
 
 ---
