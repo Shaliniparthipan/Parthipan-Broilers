@@ -305,6 +305,7 @@ body{
     font-size: 35px;
     color: #222;
     margin-bottom: 20px;
+    margin-top: 0;
 }
 .contact-info p{
     font-size: 18px;
@@ -1165,7 +1166,9 @@ header.sticky{
     font-size:20px;
 }
 .map{
-    margin:20px 0;
+    width: 80%;
+    height: 50%;
+    margin:10px 0;
     border-radius:12px;
     overflow:hidden;
     box-shadow:0 10px 25px rgba(0,0,0,.15);
