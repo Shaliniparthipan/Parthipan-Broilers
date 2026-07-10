@@ -80,10 +80,10 @@ The website allows customers to:
 
 ## Website Preview
 
-> *(Add your collage image here after creating it.)*
+>
 
 ```
-![Website Preview](Screenshots/website-preview.png)
+![Website Preview](Screenshots/website-preview.png.jpeg)
 ```
 
 ---
