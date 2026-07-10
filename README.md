@@ -78,13 +78,12 @@ The website allows customers to:
 
 >
 
-```
+
 # 📷 Screenshots
 
 ## Website Preview
     
 ![Website Preview](Screenshots/website-preview.png)
-```
 
 ---
 
